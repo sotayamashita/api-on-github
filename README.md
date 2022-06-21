@@ -1,4 +1,4 @@
 
 ```
-curl https://sotayamashtia.github.io/api-on-github/index.json
+curl https://sotayamashita.github.io/api-on-github/index.json
 ```
