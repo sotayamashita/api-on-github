@@ -1,4 +1,4 @@
 
 ```
-curl https://autifyhq.github.io/api-on-github/index.json
+curl https://sotayamashtia.github.io/api-on-github/index.json
 ```
